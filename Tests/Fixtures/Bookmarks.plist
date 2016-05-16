@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Children</key>
+	<array>
+		<dict>
+			<key>Children</key>
+			<array>
+				<dict>
+					<key>URIDictionary</key>
+					<dict>
+						<key>title</key>
+						<string>Politics in the Animal Kingdom — CGP Grey</string>
+					</dict>
+					<key>URLString</key>
+					<string>http://www.cgpgrey.com/politics-in-the-animal-kingdom/</string>
+					<key>WebBookmarkType</key>
+					<string>WebBookmarkTypeLeaf</string>
+					<key>WebBookmarkUUID</key>
+					<string>60EF84AA-CF5F-4614-9415-3C211FBE8934</string>
+				</dict>
+				<dict>
+					<key>Children</key>
+					<array>
+						<dict>
+							<key>URIDictionary</key>
+							<dict>
+								<key>title</key>
+								<string>CNN</string>
+							</dict>
+							<key>URLString</key>
+							<string>http://www.cnn.com/</string>
+							<key>WebBookmarkType</key>
+							<string>WebBookmarkTypeLeaf</string>
+							<key>WebBookmarkUUID</key>
+							<string>927DBD4F-B6EC-4624-AF35-AD1ABE766B9A</string>
+						</dict>
+					</array>
+					<key>Title</key>
+					<string>News</string>
+					<key>WebBookmarkType</key>
+					<string>WebBookmarkTypeList</string>
+					<key>WebBookmarkUUID</key>
+					<string>0A64B1D1-EB04-4AD2-B530-364A96198F49</string>
+				</dict>
+			</array>
+			<key>Title</key>
+			<string>com.apple.ReadingList</string>
+			<key>WebBookmarkType</key>
+			<string>WebBookmarkTypeList</string>
+			<key>WebBookmarkUUID</key>
+			<string>151ABBD7-7AAD-4E78-958C-525F39BDB181</string>
+		</dict>
+	</array>
+	<key>Title</key>
+	<string></string>
+	<key>WebBookmarkFileVersion</key>
+	<integer>1</integer>
+	<key>WebBookmarkType</key>
+	<string>WebBookmarkTypeList</string>
+	<key>WebBookmarkUUID</key>
+	<string>41373DDC-CBA8-459D-A7EA-9A20F2E63D86</string>
+</dict>
+</plist>
